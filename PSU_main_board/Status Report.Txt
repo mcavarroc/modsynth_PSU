@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [eurorack supply.PrjPcb]
+   Generated File[pcb_PSU.TXT]
+   Generated File[pcb_PSU.LDP]
+   Generated File[pcb_PSU.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:47:29 On 25/06/2018
